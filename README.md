@@ -1,2 +1,2 @@
 # python-essentials
-Curso LinuxTips Python Eessentials
+Curso LinuxTips Python Essentials
